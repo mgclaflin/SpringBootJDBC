@@ -22,6 +22,7 @@ public class SpringBootJdbcApplication {
 		repo.save(prg1);
 		System.out.println(repo.findAll());
 		
+		//basic functionality covered
 		
 	}
 
